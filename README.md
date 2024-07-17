@@ -88,10 +88,10 @@ A note indicating the data used by the model is sourced from various articles an
 
 LEARNINGS:
 
-Deep Learning
-Transformers
-Hugging face models
-LLM
-bcrypt
-TIDB Cloud Database
-Streamlit
+* Deep Learning
+* Transformers
+* Hugging face models
+* LLM
+* bcrypt
+* TIDB Cloud Database
+* Streamlit
